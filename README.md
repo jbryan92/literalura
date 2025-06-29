@@ -6,6 +6,7 @@
 <h1 style="font-size: 24px; font-weight: bold;">LiterAlura</h1>
 
 Este catalogo de libros dispondra de 9 opciones más la opcion de salir "0"
+
 ![menuLiter](https://github.com/user-attachments/assets/c84fa819-0aba-4197-9487-f16dfeff30a9)
 
 \## 📁 Acceso al proyecto: 
